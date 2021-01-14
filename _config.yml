@@ -7,11 +7,11 @@
 
 # Site settings
 title: My personal website
-email: jimbaer@cox.net.com
+email: jimbaer@cox.net
 description: > # this means to ignore newlines until "baseurl:"
   Check out my awesome new website!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://jimbaer.com" # the base hostname & protocol for your site
 twitter_username: jimbaer3211
 github_username:  jimbaer
 
